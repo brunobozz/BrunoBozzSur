@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2021-03-10 17:22:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-09 18:13:28 -0300"
@@ -71,6 +77,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2021-03-10 17:09:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2021-03-10 18:06:42 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-03-09 17:52:17 -0300"
@@ -86,6 +104,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-09 18:13:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-03-10 19:43:04 -0300"
     },
     "done": true
   },
@@ -227,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-03-10 19:49:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2021-03-09 19:49:49 -0300"
@@ -290,6 +320,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2021-03-09 19:45:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2021-03-10 17:09:31 -0300"
     },
     "done": true
   },
@@ -514,13 +550,17 @@
       "minecraft:blaze": "2021-03-09 18:35:05 -0300",
       "minecraft:skeleton": "2021-03-09 17:54:55 -0300",
       "minecraft:ghast": "2021-03-09 18:50:59 -0300",
+      "minecraft:magma_cube": "2021-03-10 19:43:01 -0300",
+      "minecraft:spider": "2021-03-10 17:29:38 -0300",
       "minecraft:creeper": "2021-03-09 19:00:10 -0300",
       "minecraft:wither_skeleton": "2021-03-09 18:52:21 -0300",
       "minecraft:shulker": "2021-03-09 19:44:58 -0300",
       "minecraft:piglin": "2021-03-09 18:55:42 -0300",
       "minecraft:enderman": "2021-03-09 18:32:47 -0300",
       "minecraft:silverfish": "2021-03-10 14:16:27 -0300",
-      "minecraft:zombie": "2021-03-10 14:13:14 -0300"
+      "minecraft:zombie": "2021-03-10 14:13:14 -0300",
+      "minecraft:drowned": "2021-03-10 18:17:37 -0300",
+      "minecraft:zombie_villager": "2021-03-10 18:29:59 -0300"
     },
     "done": false
   },
@@ -599,6 +639,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2021-03-09 17:52:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2021-03-10 17:22:22 -0300"
     },
     "done": true
   },
@@ -833,6 +879,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-03-09 17:50:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-03-10 18:08:29 -0300"
     },
     "done": true
   },
@@ -1103,6 +1155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2021-03-10 17:09:31 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-03-09 17:56:35 -0300"
@@ -1124,6 +1182,12 @@
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2021-03-09 19:27:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2021-03-10 18:09:09 -0300"
     },
     "done": true
   },
@@ -1175,6 +1239,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2021-03-09 18:13:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2021-03-10 18:17:38 -0300"
     },
     "done": true
   },
@@ -1241,6 +1311,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-03-09 17:56:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2021-03-10 17:22:22 -0300"
     },
     "done": true
   },
@@ -1325,6 +1401,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-03-09 17:52:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-03-10 18:21:41 -0300"
     },
     "done": true
   },
@@ -1494,6 +1576,8 @@
     "criteria": {
       "cooked_mutton": "2021-03-09 18:37:32 -0300",
       "chorus_fruit": "2021-03-09 19:47:16 -0300",
+      "beef": "2021-03-10 17:15:28 -0300",
+      "baked_potato": "2021-03-10 17:44:47 -0300",
       "apple": "2021-03-09 21:36:20 -0300",
       "bread": "2021-03-09 17:53:55 -0300"
     },
@@ -1574,6 +1658,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-03-09 18:13:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2021-03-10 17:09:31 -0300"
     },
     "done": true
   },
@@ -1823,6 +1913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2021-03-10 17:09:31 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-09 19:00:53 -0300"
@@ -1850,6 +1946,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2021-03-10 14:35:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-03-10 19:49:03 -0300"
     },
     "done": true
   },
@@ -1940,6 +2042,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-03-09 18:13:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2021-03-10 18:21:00 -0300"
     },
     "done": true
   },
@@ -2171,6 +2279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2021-03-10 18:17:38 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-03-09 17:56:35 -0300"
@@ -2192,6 +2306,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-09 18:13:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2021-03-10 18:08:29 -0300"
     },
     "done": true
   },
@@ -2303,6 +2423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2021-03-10 17:09:31 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2021-03-09 19:24:33 -0300"
@@ -2312,6 +2438,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-03-09 17:55:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-03-10 19:48:37 -0300"
     },
     "done": true
   },
@@ -2387,6 +2519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_the_recipe": "2021-03-10 19:48:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_the_recipe": "2021-03-09 17:52:02 -0300"
@@ -2444,6 +2582,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2021-03-09 19:49:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2021-03-10 18:06:42 -0300"
     },
     "done": true
   },
@@ -2510,6 +2654,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2021-03-09 19:49:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2021-03-10 19:49:03 -0300"
     },
     "done": true
   },
