@@ -47,6 +47,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2021-03-11 11:52:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-03-11 19:46:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2021-03-09 18:13:28 -0300"
@@ -74,6 +86,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2021-03-09 18:13:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-03-11 19:46:45 -0300"
     },
     "done": true
   },
@@ -158,6 +176,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-03-09 18:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-03-11 19:46:45 -0300"
     },
     "done": true
   },
@@ -413,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2021-03-11 11:52:34 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2021-03-09 18:50:59 -0300"
@@ -422,6 +452,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-03-09 18:20:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-11 19:06:09 -0300"
     },
     "done": true
   },
@@ -446,6 +482,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2021-03-09 18:13:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2021-03-11 19:42:55 -0300"
     },
     "done": true
   },
@@ -500,6 +542,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-03-09 17:54:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2021-03-11 11:53:11 -0300"
     },
     "done": true
   },
@@ -630,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2021-03-11 11:26:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-03-09 17:53:48 -0300"
@@ -681,6 +735,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2021-03-09 21:14:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-03-11 18:43:03 -0300"
     },
     "done": true
   },
@@ -768,6 +828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-03-11 18:43:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2021-03-10 14:26:10 -0300"
@@ -819,6 +885,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2021-03-09 19:24:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2021-03-11 19:42:55 -0300"
     },
     "done": true
   },
@@ -972,6 +1044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-03-11 19:46:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2021-03-09 17:53:48 -0300"
@@ -1060,6 +1138,8 @@
     "criteria": {
       "minecraft:forest": "2021-03-09 17:46:18 -0300",
       "minecraft:mountains": "2021-03-09 17:48:44 -0300",
+      "minecraft:taiga": "2021-03-11 18:56:45 -0300",
+      "minecraft:taiga_hills": "2021-03-11 18:57:26 -0300",
       "minecraft:desert": "2021-03-09 18:09:39 -0300",
       "minecraft:beach": "2021-03-09 18:29:08 -0300",
       "minecraft:river": "2021-03-09 18:02:24 -0300",
@@ -1221,6 +1301,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-11 19:06:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-03-11 18:43:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-03-09 17:50:20 -0300"
@@ -1374,6 +1466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-11 19:06:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-03-09 18:13:28 -0300"
@@ -1443,6 +1541,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2021-03-09 17:50:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-11 19:06:09 -0300"
     },
     "done": true
   },
@@ -1536,6 +1640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2021-03-11 11:52:34 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2021-03-09 18:21:34 -0300"
@@ -1576,6 +1686,7 @@
     "criteria": {
       "cooked_mutton": "2021-03-09 18:37:32 -0300",
       "chorus_fruit": "2021-03-09 19:47:16 -0300",
+      "cooked_beef": "2021-03-11 18:43:39 -0300",
       "beef": "2021-03-10 17:15:28 -0300",
       "baked_potato": "2021-03-10 17:44:47 -0300",
       "apple": "2021-03-09 21:36:20 -0300",
@@ -1586,6 +1697,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-03-09 17:52:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-03-11 18:43:03 -0300"
     },
     "done": true
   },
@@ -1724,6 +1841,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2021-03-09 18:13:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2021-03-11 11:52:34 -0300"
     },
     "done": true
   },
@@ -1913,6 +2036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-03-11 18:43:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2021-03-10 17:09:31 -0300"
@@ -1934,6 +2063,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2021-03-09 17:56:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-03-11 19:46:45 -0300"
     },
     "done": true
   },
@@ -2024,6 +2159,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-03-09 21:31:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-03-11 19:46:45 -0300"
     },
     "done": true
   },
@@ -2144,6 +2285,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2021-03-09 19:01:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2021-03-11 19:46:45 -0300"
     },
     "done": true
   },
@@ -2315,6 +2462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2021-03-11 19:46:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-03-09 17:59:26 -0300"
@@ -2375,9 +2528,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2021-03-11 11:53:11 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-03-09 17:50:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-03-11 18:43:03 -0300"
     },
     "done": true
   },
@@ -2480,6 +2645,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2021-03-09 17:56:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2021-03-11 11:52:34 -0300"
     },
     "done": true
   },
@@ -2591,6 +2762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2021-03-11 11:52:34 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-09 17:56:32 -0300"
@@ -2648,6 +2825,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-03-09 18:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-03-11 19:46:45 -0300"
     },
     "done": true
   },
