@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2021-03-13 14:40:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2021-03-08 23:02:07 -0300"
@@ -434,6 +440,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2021-03-07 21:10:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2021-03-12 21:50:26 -0300"
     },
     "done": true
   },
@@ -872,6 +884,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2021-03-07 23:14:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-03-12 21:49:21 -0300"
     },
     "done": true
   },
@@ -1338,6 +1356,7 @@
       "minecraft:taiga_hills": "2021-03-11 14:44:41 -0300",
       "minecraft:desert": "2021-03-07 21:00:36 -0300",
       "minecraft:frozen_river": "2021-03-12 13:09:36 -0300",
+      "minecraft:snowy_beach": "2021-03-12 23:09:54 -0300",
       "minecraft:warm_ocean": "2021-03-10 22:27:00 -0300",
       "minecraft:deep_lukewarm_ocean": "2021-03-09 16:43:51 -0300",
       "minecraft:savanna_plateau": "2021-03-07 21:48:26 -0300",
@@ -1380,6 +1399,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2021-03-09 02:13:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2021-03-12 22:10:09 -0300"
     },
     "done": true
   },
@@ -1452,6 +1477,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2021-03-09 21:14:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-03-13 14:40:09 -0300"
     },
     "done": true
   },
@@ -2560,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-03-12 21:49:56 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-07 21:00:26 -0300"
@@ -2575,6 +2612,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2021-03-10 17:12:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-03-13 14:40:49 -0300"
     },
     "done": true
   },
@@ -2884,6 +2927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2021-03-12 22:10:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2021-03-12 19:08:52 -0300"
@@ -3070,6 +3119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2021-03-13 14:39:52 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2021-03-12 20:42:27 -0300"
@@ -3109,6 +3164,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2021-03-10 17:12:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-03-12 21:49:56 -0300"
     },
     "done": true
   },
