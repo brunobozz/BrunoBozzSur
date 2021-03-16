@@ -1182,6 +1182,7 @@
       "minecraft:desert": "2021-03-09 18:09:39 -0300",
       "minecraft:frozen_river": "2021-03-12 13:24:56 -0300",
       "minecraft:beach": "2021-03-09 18:29:08 -0300",
+      "minecraft:dark_forest": "2021-03-16 16:06:49 -0300",
       "minecraft:river": "2021-03-09 18:02:24 -0300",
       "minecraft:lukewarm_ocean": "2021-03-09 17:54:55 -0300",
       "minecraft:wooded_hills": "2021-03-09 17:50:44 -0300",
@@ -1890,6 +1891,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-03-16 16:18:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2021-03-09 18:13:28 -0300"
@@ -2592,6 +2599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-03-16 16:18:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2021-03-11 11:53:11 -0300"
@@ -2835,6 +2848,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2021-03-11 11:52:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2021-03-16 16:19:00 -0300"
     },
     "done": true
   },
