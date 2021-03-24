@@ -2234,6 +2234,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2021-03-22 14:34:43 -0300",
       "minecraft:sheep": "2021-03-16 16:02:05 -0300",
       "minecraft:cow": "2021-03-16 16:02:00 -0300",
       "minecraft:chicken": "2021-03-20 14:33:25 -0300"
@@ -3334,6 +3335,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/ragdoll.png": "2021-03-22 14:12:18 -0300",
       "textures/entity/cat/calico.png": "2021-03-12 14:29:50 -0300"
     },
     "done": false
