@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2021-04-04 15:25:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-03-07 22:47:06 -0300"
@@ -1392,6 +1398,7 @@
       "minecraft:dark_forest": "2021-03-09 02:44:32 -0300",
       "minecraft:river": "2021-03-07 20:59:52 -0300",
       "minecraft:lukewarm_ocean": "2021-03-09 16:43:03 -0300",
+      "minecraft:wooded_mountains": "2021-04-04 15:34:20 -0300",
       "minecraft:wooded_hills": "2021-03-09 03:28:23 -0300",
       "minecraft:stone_shore": "2021-03-09 16:56:39 -0300",
       "minecraft:swamp": "2021-03-07 20:56:27 -0300",
@@ -1487,6 +1494,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2021-03-08 23:02:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2021-04-04 02:47:35 -0300"
     },
     "done": true
   },
@@ -2061,6 +2074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2021-04-04 15:25:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2021-03-10 23:30:40 -0300"
@@ -2264,7 +2283,8 @@
       "minecraft:pig": "2021-03-22 14:34:43 -0300",
       "minecraft:sheep": "2021-03-16 16:02:05 -0300",
       "minecraft:cow": "2021-03-16 16:02:00 -0300",
-      "minecraft:chicken": "2021-03-20 14:33:25 -0300"
+      "minecraft:chicken": "2021-03-20 14:33:25 -0300",
+      "minecraft:rabbit": "2021-04-04 15:32:33 -0300"
     },
     "done": false
   },
