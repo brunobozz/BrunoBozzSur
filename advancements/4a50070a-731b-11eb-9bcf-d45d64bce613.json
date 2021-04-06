@@ -734,6 +734,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2021-03-09 18:56:50 -0300",
+      "minecraft:pillager": "2021-04-05 19:58:57 -0300",
       "minecraft:skeleton": "2021-03-07 22:31:41 -0300",
       "minecraft:magma_cube": "2021-03-10 19:43:08 -0300",
       "minecraft:spider": "2021-03-08 13:13:50 -0300",
@@ -1041,6 +1042,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-04-05 20:09:26 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-03-09 18:53:02 -0300"
@@ -1182,6 +1189,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-03-08 13:11:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2021-04-05 20:02:44 -0300"
     },
     "done": true
   },
@@ -1974,6 +1987,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-04-05 20:09:26 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2021-03-12 20:01:39 -0300"
@@ -2013,6 +2032,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2021-03-10 23:33:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-04-05 20:01:26 -0300"
     },
     "done": true
   },
@@ -2059,6 +2084,7 @@
       "cooked_beef": "2021-03-07 23:06:11 -0300",
       "baked_potato": "2021-03-10 18:20:07 -0300",
       "apple": "2021-03-09 02:18:21 -0300",
+      "cooked_cod": "2021-04-05 20:00:37 -0300",
       "mutton": "2021-03-09 02:14:16 -0300",
       "bread": "2021-03-07 21:08:14 -0300",
       "golden_apple": "2021-03-09 19:26:06 -0300",
@@ -2333,6 +2359,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-03-07 22:47:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-04-05 20:03:19 -0300"
     },
     "done": true
   },
