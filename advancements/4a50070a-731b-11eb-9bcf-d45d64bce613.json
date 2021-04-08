@@ -1590,6 +1590,7 @@
       "minecraft:taiga_hills": "2021-03-11 14:44:41 -0300",
       "minecraft:desert": "2021-03-07 21:00:36 -0300",
       "minecraft:frozen_river": "2021-03-12 13:09:36 -0300",
+      "minecraft:birch_forest": "2021-04-08 14:45:12 -0300",
       "minecraft:snowy_beach": "2021-03-12 23:09:54 -0300",
       "minecraft:warm_ocean": "2021-03-10 22:27:00 -0300",
       "minecraft:deep_lukewarm_ocean": "2021-03-09 16:43:51 -0300",
@@ -3507,6 +3508,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2021-04-06 20:36:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2021-04-08 14:30:51 -0300"
     },
     "done": true
   },
